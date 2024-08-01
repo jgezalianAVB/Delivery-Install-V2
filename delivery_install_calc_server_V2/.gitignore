@@ -1,0 +1,7 @@
+/.DS_Store
+/.vscode
+/node_modules
+/package-lock.json
+/package.json
+/credentials.json
+/token.json
